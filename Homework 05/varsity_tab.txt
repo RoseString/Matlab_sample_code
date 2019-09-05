@@ -1,0 +1,10 @@
+Tab
+----------
+Slaw Dog: 1@1.83
+BLT: 1@3.39
+Fried Peach Pie: 2@1.79
+French Fries: 2@1.94
+Onion Rings: 2@1.94
+Medium FO: 4@2.99
+Guilt: 999@0.02
+----------

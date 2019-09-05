@@ -1,0 +1,15 @@
+--------------------------------------
+MATLAB Racing Report: Mystery Machine
+--------------------------------------
+t = 5
+
+Position at t:
+ -9.979167e+02 m
+
+Velocity at t:
+ -520 m/s
+
+Acceleration at t:
+ -174 m/s^2
+
+--------------------------------------

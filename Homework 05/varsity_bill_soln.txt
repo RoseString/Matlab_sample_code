@@ -1,0 +1,14 @@
+Tab
+----------
+Slaw Dog: 1@1.83
+BLT: 1@3.39
+Fried Peach Pie: 2@1.79
+French Fries: 2@1.94
+Onion Rings: 2@1.94
+Medium FO: 4@2.99
+Guilt: 999@0.02
+----------
+SUBTOTAL: $48.50
+TOTAL: $52.38
+TIP: $7.85
+PAYMENT: $60.23

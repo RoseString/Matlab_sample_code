@@ -1,0 +1,10 @@
+Tab
+----------
+Fauxlafel: 4@7.99
+Sweet Potato Tots: 10@3.99
+Caesar Salad: 3@5.99
+----------
+SUBTOTAL: $89.83
+TOTAL: $97.01
+TIP: $14.55
+PAYMENT: $111.56

@@ -1,0 +1,12 @@
+Tab
+----------
+Krabby Patty: 6@1.29
+Triple Krabby Patty w/ Cheese: 1@3.29
+Large Coral Bits: 99@1.49
+Salty Sea Dog: 2@1.29
+Kelp Shake: 3@1.99
+----------
+SUBTOTAL: $167.09
+TOTAL: $180.45
+TIP: $27.06
+PAYMENT: $207.51
